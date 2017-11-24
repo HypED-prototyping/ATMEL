@@ -1,6 +1,0 @@
-setting up the remote ATMEL Connection.
-0. get the compiled file to the server, using either scp, git or maybe even gdrive?
-1. find the location of the ATMEL, "ls /dev/ttyA*"
-2. send compiled code to atmel using AVRDUDE
-3. recieve serial data using cat /dev/ttyA*
-
